@@ -41,9 +41,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2603,7 +2603,7 @@ https://hub.docker.com/r/v8fg/golang</div>
                                     </svg>
                                     <div class="name">
                                         <span>xwi88/toha</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Hugo theme for personal portfolio</div>
@@ -2656,7 +2656,7 @@ https://hub.docker.com/r/v8fg/golang</div>
                                     </svg>
                                     <div class="name">
                                         <span>gohugoio/hugoThemes</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated directory of Hugo themes</div>
@@ -2709,7 +2709,7 @@ https://hub.docker.com/r/v8fg/golang</div>
                                     </svg>
                                     <div class="name">
                                         <span>hugo-toha/toha</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Hugo theme for personal portfolio</div>
@@ -2762,7 +2762,7 @@ https://hub.docker.com/r/v8fg/golang</div>
                                     </svg>
                                     <div class="name">
                                         <span>xwi88/docker-compose-resources</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">docker-compose files for mysql, mongodb, rethinkdb, influxdb, grafana and so on</div>
@@ -3084,7 +3084,7 @@ security issues.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Feb 2022, 22:11:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 26 Feb 2022, 23:11:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
