@@ -2698,7 +2698,7 @@ https://hub.docker.com/r/v8fg/golang</div>
                                     </svg>
                                     <div class="name">
                                         <span>apache/apisix</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cloud-Native API Gateway</div>
@@ -2934,7 +2934,7 @@ https://hub.docker.com/r/v8fg/golang</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 21 Mar 2022, 18:10:57
+                            On 21 Mar 2022, 18:13:57
                         </div>
                     </section>
                 </div>
@@ -2950,7 +2950,7 @@ https://hub.docker.com/r/v8fg/golang</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">2b56131b</span>
+                            <span class="code">9ad6fa85</span>
                             <span class="code">README.md</span>
                             <span class="code"><span class="snippet additions">++6</span> <span class="snippet deletions">--0</span></span>
                         </div>
@@ -2959,14 +2959,14 @@ https://hub.docker.com/r/v8fg/golang</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -37,3 +37,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- `bash make.sh`<br /></span><span class="token prefix unchanged">·</span><span class="token line"> &gt;more usage: `bash make.sh help`<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">+## uninstall uni-deploy<br /></span><span class="token prefix inserted">+</span><span class="token line">+- `bash uni-deploy/make.sh delete`<br /></span><span class="token prefix inserted">+</span><span class="token line"> - pls exec in your project root dir<br /></span><span class="token prefix inserted">+</span><span class="token line"> - or specify the project root dir</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -37,3 +37,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- `bash make.sh`<br /></span><span class="token prefix unchanged">·</span><span class="token line"> &gt;more usage: `bash make.sh help`<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">+## uninstall uni-deploy<br /></span><span class="token prefix inserted">+</span><span class="token line">+- `bash uni-deploy/make.sh uninstall`<br /></span><span class="token prefix inserted">+</span><span class="token line"> - pls exec in your project root dir<br /></span><span class="token prefix inserted">+</span><span class="token line"> - or specify the project root dir</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Mar 2022, 14:15:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 23 Mar 2022, 15:12:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
