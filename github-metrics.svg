@@ -2744,7 +2744,7 @@ https://hub.docker.com/r/v8fg/golang</div>
                                     </svg>
                                     <div class="name">
                                         <span>v8fg/rd</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">register and discover, will support etcd, consul, etc.</div>
@@ -2913,7 +2913,7 @@ https://hub.docker.com/r/v8fg/golang</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Apr 2022, 03:10:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 6 Apr 2022, 04:13:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
