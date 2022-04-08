@@ -2600,7 +2600,7 @@ https://hub.docker.com/r/v8fg/golang</div>
                                     </svg>
                                     <div class="name">
                                         <span>golang-design/Go-Questions</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📖 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions</div>
@@ -2793,7 +2793,7 @@ https://hub.docker.com/r/v8fg/golang</div>
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        5.53k
+                                        5.54k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2920,7 +2920,7 @@ https://hub.docker.com/r/v8fg/golang</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Apr 2022, 15:12:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 8 Apr 2022, 16:14:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
