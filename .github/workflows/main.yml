@@ -25,7 +25,7 @@ jobs:
           user: xwi88
           template: classic
           # base: header, activity, repositories, metadata
-          base: reposittories
+          base: reposittories, metadata
           config_timezone: Asia/Shanghai
 #           plugin_activity: yes
 #           plugin_activity_days: 30
@@ -55,6 +55,7 @@ jobs:
           plugin_languages_recent_load: 90
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          filename: metrics.plugin.discussions.svg          
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8          
           plugin_lines: yes
