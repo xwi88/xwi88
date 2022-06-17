@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>link1st/go-stress-testing</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】</div>
@@ -222,7 +222,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jun 2022, 08:57:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 17 Jun 2022, 11:02:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
