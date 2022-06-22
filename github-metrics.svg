@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bits-and-blooms/bitset</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go package implementing bitsets</div>
@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aclements/go-perf</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go packages and tools for Linux perf</div>
@@ -253,7 +253,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jun 2022, 02:15:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 23 Jun 2022, 03:09:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
