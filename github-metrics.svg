@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>megaease/easeprobe</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.</div>
@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bits-and-blooms/bitset</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go package implementing bitsets</div>
@@ -253,7 +253,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jun 2022, 15:11:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 24 Jun 2022, 16:15:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
