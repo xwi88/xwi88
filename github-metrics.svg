@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coocood/freecache</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cache library for Go with zero GC overhead.</div>
@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>envoyproxy/ratelimit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.</div>
@@ -219,7 +219,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Aug 2022, 12:36:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 16 Aug 2022, 13:16:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
