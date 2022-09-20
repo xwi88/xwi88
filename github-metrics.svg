@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>agiledragon/gomonkey</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">gomonkey is a library to make monkey patching in unit tests easy</div>
@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>golang/mock</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GoMock is a mocking framework for the Go programming language.</div>
@@ -253,7 +253,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Sept 2022, 23:15:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 21 Sept 2022, 00:19:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
