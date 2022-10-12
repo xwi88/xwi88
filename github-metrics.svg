@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samber/lo</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)</div>
@@ -253,7 +253,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Oct 2022, 09:39:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Oct 2022, 12:03:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
