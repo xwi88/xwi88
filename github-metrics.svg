@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pquerna/otp</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TOTP library for Go</div>
@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smallstep/cli</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.</div>
@@ -253,7 +253,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Oct 2022, 07:18:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Oct 2022, 09:18:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
