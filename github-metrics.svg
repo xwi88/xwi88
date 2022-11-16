@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pyroscope-io/client</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is the golang client integration for Pyroscope</div>
@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/phlare</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system</div>
@@ -219,7 +219,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Nov 2022, 16:18:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Nov 2022, 17:12:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
