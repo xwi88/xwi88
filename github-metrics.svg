@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>corpix/uarand</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Random user-agent generator for Go</div>
@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>protocolbuffers/protobuf-go</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go support for Google's protocol buffers</div>
@@ -219,7 +219,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Nov 2022, 19:10:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 23 Nov 2022, 20:23:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
