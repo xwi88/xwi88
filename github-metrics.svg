@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>comfyanonymous/ComfyUI</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful and modular stable diffusion GUI with a graph/nodes interface.</div>
@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/transformers</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</div>
@@ -219,7 +219,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Apr 2023, 21:11:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Apr 2023, 22:08:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
