@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stulzq/azure-openai-proxy</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4.</div>
@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>waylaidwanderer/node-chatgpt-api</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.</div>
@@ -256,7 +256,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Apr 2023, 13:09:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Apr 2023, 14:13:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
