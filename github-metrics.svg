@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>waylaidwanderer/node-chatgpt-api</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.</div>
@@ -219,7 +219,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Apr 2023, 22:10:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 Apr 2023, 23:11:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
