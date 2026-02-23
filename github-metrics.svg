@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xuxueli/xxl-job</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）</div>
@@ -219,7 +219,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Feb 2026, 15:51:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Feb 2026, 16:42:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
