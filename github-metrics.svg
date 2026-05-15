@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>multica-ai/andrej-karpathy-skills</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</div>
@@ -139,7 +139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akfamily/akquant</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AKQuant is a high-performance quantitative research and trading framework built on Rust and Python! 开源量化回测框架</div>
@@ -207,7 +207,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 May 2026, 10:40:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 May 2026, 14:29:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
