@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.00375034199" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="362.00375034199" y="0" width="39.73255495823281" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="401.7363053002228" y="0" width="25.875725285228523" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="427.6120305854513" y="0" width="10.044893956459791" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="437.6569245419111" y="0" width="9.691649404315648" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.34857394622674" y="0" width="7.859435903084483" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.2080098493112" y="0" width="2.484357289804968" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.6923671391162" y="0" width="2.3076328608838086" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="367.7056555243313" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="367.7056555243313" y="0" width="37.040854309661995" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="404.74650983399323" y="0" width="24.12276208903572" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="428.869271923029" y="0" width="9.3643978845145" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="438.23366980754344" y="0" width="9.035084050923693" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.26875385846716" y="0" width="7.605644883139425" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="454.87439874160657" y="0" width="2.8095479232492653" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.68394666485585" y="0" width="2.31605333514413" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -69,15 +69,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Makefile
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        SCSS
+                        Makefile
                     </div>
                 </div>
             </section>
@@ -213,7 +213,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2026, 22:14:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2026, 01:07:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
