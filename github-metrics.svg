@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="367.9301406434831" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="367.9301406434831" y="0" width="36.54106567501683" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="404.4712063185" y="0" width="23.797276012835678" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="428.26848233133563" y="0" width="9.238044977158506" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="437.5065273084941" y="0" width="8.913174543006713" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="446.4197018515008" y="0" width="7.503022658501677" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="453.92272451000247" y="0" width="3.3056365228643694" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.22836103286687" y="0" width="2.771638967133082" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="367.6569707285117" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="367.6569707285117" y="0" width="36.513935742726005" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="404.1709064712377" y="0" width="23.77960771348513" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="427.9505141847228" y="0" width="9.231186186094257" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="437.18170037081705" y="0" width="8.906556952157045" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="446.0882573229741" y="0" width="7.4974520356164" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="453.58570935859046" y="0" width="3.6447094789989367" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.2304188375894" y="0" width="2.7695811624105358" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepseek-ai/awesome-deepseek-agent</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -208,7 +208,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jul 2026, 10:53:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jul 2026, 14:36:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
